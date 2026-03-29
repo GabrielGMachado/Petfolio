@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
   <Project Path="Petfolio.API/Petfolio.API.csproj" Id="e0c0606d-c478-48d9-aef4-07a72ac5c30b" />
   <Project Path="Petfolio.Application/Petfolio.Application.csproj" Id="ddb2d549-d059-459b-bfcc-a36897a79abd" />
   <Project Path="Petfolio.Communication/Petfolio.Communication.csproj" Id="15f21ef2-d1a1-4ca7-8094-ffe44686d324" />
