@@ -1,7 +1,7 @@
 ﻿using Petfolio.Communication.Enums;
 using Petfolio.Communication.Responses;
 
-namespace Petfolio.Application.UseCases.Pets.Get;
+namespace Petfolio.Application.UseCases.Pets.GetAll;
 
 public class GetAllPetsUseCase
 {
